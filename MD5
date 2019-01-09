@@ -1,0 +1,14 @@
+8dbffb8111545aef627f88ae9a74cbe0 *DESCRIPTION
+4a580d134f7dd2646b0edea6e4415426 *LICENSE
+917bc16238e71287cca6c719ab18cf5c *NAMESPACE
+273a66dc9aace12bf091beb960151dd0 *R/attach.R
+4c97a444fab0e4cc07c59fe1c4ca4283 *R/conflicts.R
+1054a8093758455dd4d6d22fda1076ad *R/rmd.R
+27b51f10e347b72622f9379fdb9cda6d *R/update.R
+975c369f38b3fc7015f7d8f400e644f7 *R/utils.R
+3b46df7a942ffe1a757d24c9f30103c4 *R/zzz.R
+5b706686006b737e6fc0e57735cb9f32 *man/rmd-package.Rd
+49b6245b264f66121c72b75bcbd70655 *man/rmd_conflicts.Rd
+a5bdac23406595cb4ebb326c128f04c8 *man/rmd_deps.Rd
+4c44b7727d19644346f488509a71a304 *man/rmd_packages.Rd
+77e7d24c0c1154afe6e363c54cbe5f0e *man/rmd_update.Rd
