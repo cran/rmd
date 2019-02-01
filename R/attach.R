@@ -1,5 +1,6 @@
 core <- c("rmarkdown", "knitr", "bookdown", "blogdown", "rticles",
-          "tinytex", "xaringan", "citr", "mindr", "bookdownplus")
+          "tinytex", "xaringan", "citr", "mindr", "bookdownplus",
+          "pagedown")
 
 core_loaded <- function() {
   search <- paste0("package:", core)
