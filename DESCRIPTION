@@ -1,6 +1,6 @@
 Package: rmd
-Version: 0.1.4
-Date: 2019-01-25
+Version: 0.1.5
+Date: 2020-02-29
 Title: Easily Install and Load the R Markdown Family
 Authors@R: c(
     person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net")
@@ -18,10 +18,10 @@ Description: The 'rmd' package manages multiple R markdown packages. These R mar
 License: GPL-3 | file LICENSE
 URL: https://github.com/pzhaonet/rmd
 BugReports: https://github.com/pzhaonet/rmd/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 NeedsCompilation: no
 LazyData: true
-Packaged: 2019-02-01 18:03:00 UTC; PengZhao
+Packaged: 2020-03-01 09:06:57 UTC; test
 Author: Peng Zhao [aut, cre]
 Repository: CRAN
-Date/Publication: 2019-02-01 18:40:03 UTC
+Date/Publication: 2020-03-01 15:40:02 UTC
